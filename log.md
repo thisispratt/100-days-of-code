@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 22, 2019
+### Day 1: December 21, 2019
 
 **Today's Progress**: Revised the HTML/HTML5 section and a couple of exercises for Basic CSS of the Responsive Web design Certification on FreeCodeCamp.
 
