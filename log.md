@@ -6,7 +6,16 @@
 
 **Thoughts:** Revisited the HTML/HTML5 section on freecodecamp and practiced it.(This was quick)
 
-**Link to work:**
+### Day 2: December 22, 2019
+
+**Today's Progress**:  Zapped past the basic CSS section of the Freecodecamp.
+
+**Thoughts:** 
+NOTE:
+1. Fonts on a webpage can be made super responsive using relative units.
+   For ex: Use a relative unit to size the parent font/heading acc. to the viewport and then again use the relative unit (like em) to      size the child font.
+2. Don't forget about css variables and  media queries (They are really helpful in developing responsive websites).  
+   @media(max-width: 200px){ list of properties...}
 
 
 
@@ -25,7 +34,8 @@
 
 
 
-<EXAMPLE>
+
+Example
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
