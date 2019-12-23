@@ -17,8 +17,12 @@ NOTE:
 2. Don't forget about css variables and  media queries (They are really helpful in developing responsive websites).  
    @media(max-width: 200px){ list of properties...}
 
+### Day 3: December 23, 2019
 
+**Today's Progress**:  Worked on the Applied Visual Design Section of FreeCodeCamp. Revised the positioning concept.
+The animation part is still left, will complete it tomorrow.
 
+**Thoughts:**  Revision is taking a lot of time.. I should speed up the process.
 
 
 
