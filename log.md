@@ -24,6 +24,18 @@ The animation part is still left, will complete it tomorrow.
 
 **Thoughts:**  Revision is taking a lot of time.. I should speed up the process.
 
+### Day 4: December 24, 2019
+
+**Today's Progress**:  Completed the Applied Visual Design of FreeCodeCamp.
+
+**Thoughts:** Animations are so interesting, but I tend to forget them so easily.
+              I think I should start incorporating animations on the webpages I create, this way I would retain the concepts of                       animation.
+
+### Day 5: December 25, 2019
+
+**Today's Progress**: Applied accessibility section at Freecodecamp completed.
+
+**Thoughts:**  HTML5 has so many new elements which are useful for screen readers.I should use them.
 
 
 
@@ -39,7 +51,7 @@ The animation part is still left, will complete it tomorrow.
 
 
 
-Example
+**Example**
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
