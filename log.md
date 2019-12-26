@@ -38,6 +38,11 @@ The animation part is still left, will complete it tomorrow.
 **Thoughts:**  HTML5 has so many new elements which are useful for screen readers.I should use them.
 
 
+### Day 6: December 26, 2019
+
+**Today's Progress**: Done with the Responsive web design priniciples and CSS Flexbox at FreeCodeCamp.
+
+**Thoughts:**  Need to complete the FCC's projects ASAP.
 
 
 
@@ -49,15 +54,3 @@ The animation part is still left, will complete it tomorrow.
 
 
 
-
-
-**Example**
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
