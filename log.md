@@ -44,6 +44,9 @@ The animation part is still left, will complete it tomorrow.
 
 **Thoughts:**  Need to complete the FCC's projects ASAP.
 
+### Days afterwards :: 
+All the days have been documented on twitter under my own handle: https://twitter.com/thisis_pratt
+
 
 
 
